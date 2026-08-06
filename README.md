@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nitika1621/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Nitika1621/dsa-practice/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
