@@ -39,8 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Nitika1621/dsa-practice/tree/master/0155-min-stack) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nitika1621/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Nitika1621/dsa-practice/tree/master/0155-min-stack) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nitika1621/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
