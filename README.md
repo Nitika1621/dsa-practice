@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nitika1621/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Nitika1621/dsa-practice/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Nitika1621/dsa-practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
