@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nitika1621/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitika1621/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nitika1621/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nitika1621/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -73,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Nitika1621/dsa-practice/tree/master/0224-basic-calculator) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
