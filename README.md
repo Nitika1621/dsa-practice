@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Nitika1621/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Nitika1621/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitika1621/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Nitika1621/dsa-practice/tree/master/0085-maximal-rectangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Nitika1621/dsa-practice/tree/master/0860-lemonade-change) |
 ## Quicksort
