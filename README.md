@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Nitika1621/dsa-practice/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/Nitika1621/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nitika1621/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/Nitika1621/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Nitika1621/dsa-practice/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/Nitika1621/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
 | ------- |
