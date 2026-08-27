@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Nitika1621/dsa-practice/tree/master/0224-basic-calculator) |
 | [0459-repeated-substring-pattern](https://github.com/Nitika1621/dsa-practice/tree/master/0459-repeated-substring-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nitika1621/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
 ## Database
 |  |
 | ------- |
@@ -119,18 +120,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitika1621/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Nitika1621/dsa-practice/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitika1621/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Nitika1621/dsa-practice/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitika1621/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Nitika1621/dsa-practice/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitika1621/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
