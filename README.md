@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitika1621/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Nitika1621/dsa-practice/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Nitika1621/dsa-practice/tree/master/0224-basic-calculator) |
 | [0459-repeated-substring-pattern](https://github.com/Nitika1621/dsa-practice/tree/master/0459-repeated-substring-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nitika1621/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -119,18 +120,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitika1621/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Nitika1621/dsa-practice/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Nitika1621/dsa-practice/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitika1621/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Nitika1621/dsa-practice/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Nitika1621/dsa-practice/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitika1621/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Nitika1621/dsa-practice/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Nitika1621/dsa-practice/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
@@ -140,9 +144,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Nitika1621/dsa-practice/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Nitika1621/dsa-practice/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Nitika1621/dsa-practice/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
