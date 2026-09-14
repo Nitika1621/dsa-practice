@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Nitika1621/dsa-practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitika1621/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Nitika1621/dsa-practice/tree/master/0224-basic-calculator) |
+| [0509-fibonacci-number](https://github.com/Nitika1621/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Nitika1621/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/Nitika1621/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Nitika1621/dsa-practice/tree/master/0224-basic-calculator) |
+| [0509-fibonacci-number](https://github.com/Nitika1621/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Nitika1621/dsa-practice/tree/master/0214-shortest-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nitika1621/dsa-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
