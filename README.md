@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Nitika1621/dsa-practice/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitika1621/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0216-combination-sum-iii](https://github.com/Nitika1621/dsa-practice/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Nitika1621/dsa-practice/tree/master/0860-lemonade-change) |
 | [1094-car-pooling](https://github.com/Nitika1621/dsa-practice/tree/master/1094-car-pooling) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Nitika1621/dsa-practice/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/Nitika1621/dsa-practice/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
