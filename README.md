@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nitika1621/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitika1621/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Nitika1621/dsa-practice/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Nitika1621/dsa-practice/tree/master/0224-basic-calculator) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nitika1621/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Nitika1621/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nitika1621/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Nitika1621/dsa-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/Nitika1621/dsa-practice/tree/master/0216-combination-sum-iii) |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Nitika1621/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nitika1621/dsa-practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
