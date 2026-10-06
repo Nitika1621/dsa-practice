@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Nitika1621/dsa-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Nitika1621/dsa-practice/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Nitika1621/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Nitika1621/dsa-practice/tree/master/0085-maximal-rectangle) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nitika1621/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Nitika1621/dsa-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Nitika1621/dsa-practice/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/Nitika1621/dsa-practice/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Nitika1621/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
 ## Hash Table
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nitika1621/dsa-practice/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Nitika1621/dsa-practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
