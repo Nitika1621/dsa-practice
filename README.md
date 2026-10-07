@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Nitika1621/dsa-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitika1621/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nitika1621/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Nitika1621/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Nitika1621/dsa-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0047-permutations-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nitika1621/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Nitika1621/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Nitika1621/dsa-practice/tree/master/0085-maximal-rectangle) |
 ## Stack
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nitika1621/dsa-practice/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Nitika1621/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Nitika1621/dsa-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nitika1621/dsa-practice/tree/master/0051-n-queens) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nitika1621/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0491-non-decreasing-subsequences](https://github.com/Nitika1621/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
 ## Bit Manipulation
 |  |
@@ -198,5 +202,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nitika1621/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Nitika1621/dsa-practice/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Nitika1621/dsa-practice/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
