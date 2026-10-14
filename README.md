@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Nitika1621/dsa-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nitika1621/dsa-practice/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/Nitika1621/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Nitika1621/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Nitika1621/dsa-practice/tree/master/0085-maximal-rectangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nitika1621/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Nitika1621/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Nitika1621/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Nitika1621/dsa-practice/tree/master/0085-maximal-rectangle) |
 ## Stack
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nitika1621/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Nitika1621/dsa-practice/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Nitika1621/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Nitika1621/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Nitika1621/dsa-practice/tree/master/0198-house-robber) |
