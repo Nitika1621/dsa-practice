@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Nitika1621/dsa-practice/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Nitika1621/dsa-practice/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/Nitika1621/dsa-practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/Nitika1621/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0860-lemonade-change](https://github.com/Nitika1621/dsa-practice/tree/master/0860-lemonade-change) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitika1621/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Nitika1621/dsa-practice/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Nitika1621/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Nitika1621/dsa-practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
