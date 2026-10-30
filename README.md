@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/Nitika1621/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Nitika1621/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Nitika1621/dsa-practice/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/Nitika1621/dsa-practice/tree/master/0860-lemonade-change) |
 | [1094-car-pooling](https://github.com/Nitika1621/dsa-practice/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nitika1621/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Nitika1621/dsa-practice/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Nitika1621/dsa-practice/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Nitika1621/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Nitika1621/dsa-practice/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nitika1621/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Nitika1621/dsa-practice/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/Nitika1621/dsa-practice/tree/master/1094-car-pooling) |
 ## Prefix Sum
 |  |
