@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nitika1621/dsa-practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Nitika1621/dsa-practice/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/Nitika1621/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/Nitika1621/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0860-lemonade-change](https://github.com/Nitika1621/dsa-practice/tree/master/0860-lemonade-change) |
 | [1094-car-pooling](https://github.com/Nitika1621/dsa-practice/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nitika1621/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitika1621/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nitika1621/dsa-practice/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Nitika1621/dsa-practice/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/Nitika1621/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nitika1621/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Nitika1621/dsa-practice/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Nitika1621/dsa-practice/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nitika1621/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0491-non-decreasing-subsequences](https://github.com/Nitika1621/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/Nitika1621/dsa-practice/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
