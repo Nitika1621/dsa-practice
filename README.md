@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitika1621/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Nitika1621/dsa-practice/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Nitika1621/dsa-practice/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/Nitika1621/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/Nitika1621/dsa-practice/tree/master/0459-repeated-substring-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nitika1621/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nitika1621/dsa-practice/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/Nitika1621/dsa-practice/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Nitika1621/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/Nitika1621/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
 ## Hash Table
 |  |
@@ -234,18 +236,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nitika1621/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nitika1621/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nitika1621/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
