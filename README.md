@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Nitika1621/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/Nitika1621/dsa-practice/tree/master/0459-repeated-substring-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nitika1621/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Nitika1621/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/Nitika1621/dsa-practice/tree/master/1392-longest-happy-prefix) |
 ## Database
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Nitika1621/dsa-practice/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Nitika1621/dsa-practice/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Nitika1621/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Nitika1621/dsa-practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0226-invert-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Nitika1621/dsa-practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
