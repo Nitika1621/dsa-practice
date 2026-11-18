@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nitika1621/dsa-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nitika1621/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Nitika1621/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nitika1621/dsa-practice/tree/master/0257-binary-tree-paths) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nitika1621/dsa-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nitika1621/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Nitika1621/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nitika1621/dsa-practice/tree/master/0257-binary-tree-paths) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nitika1621/dsa-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nitika1621/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nitika1621/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Nitika1621/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nitika1621/dsa-practice/tree/master/0257-binary-tree-paths) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Nitika1621/dsa-practice/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Nitika1621/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Nitika1621/dsa-practice/tree/master/0226-invert-binary-tree) |
 ## Longest Common Subsequence
 |  |
